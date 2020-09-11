@@ -11,6 +11,8 @@ tensorflow_hub
 
 tensorflow
 
+tensorflow-addons
+
 
 
 # TF2 upgrade -- anaconda3\envs\bert_nlp\Lib\site-packages\bert\
